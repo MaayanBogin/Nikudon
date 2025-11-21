@@ -1,4 +1,4 @@
-# 🎙️ Nakdamon - Whisper Model for Diacritic Hebrew
+# 🎙️ Nikudon - Whisper Model for Diacritic Hebrew
 
 [![Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-blue)](https://huggingface.co/MayBog/whisper-hebrew-nikud-v1)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
